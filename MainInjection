@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/swagmode/main/swagmodemain"))()
+wait()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/swagmode/main/swagmodemods"))()
+wait()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sashkotashko/swagmode/main/swagpremium"))()
